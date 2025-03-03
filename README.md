@@ -16,10 +16,10 @@ QuantumGuard combines cutting-edge encryption techniques with a sleek, user-frie
 
 ### 🔐 Advanced Encryption Technology
 
-- AES-256 encryption for military-grade security
+- AES-256/SHA-512 encryption for military-grade security
 - Unique initialization vectors (IVs) per file
 - Secure key derivation with individual salt generation
-- Custom OIKSBV Zork Private Encryption
+- Custom OIKSBV-815 Zork Private Encryption
 
 ### 🛡️ Password Management
 
