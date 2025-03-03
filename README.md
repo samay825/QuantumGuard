@@ -53,41 +53,15 @@ QuantumGuard combines cutting-edge encryption techniques with a sleek, user-frie
 - Python 3.13.2+
 - Compatible with Windows, macOS, and Linux
 
-## 🛠️ Installation Steps
+## 🛠️ Installation
 
-1. **Install Dependencies:**
-
-```sh
-pip install tqdm
-```
-
-2. **Install QuantumGuard (.exe):**
-
-- Run the installer (`.exe` file)
-- When prompted for a password, enter: `sincryption`
-
-3. **Setup Before First Use:**
-
-- Navigate to the installation directory
-- Locate and run `setup.py` via terminal:
-
-```sh
-python setup.py
-```
-
-- Alternatively, double-click `setup.py` to automate setup and version checks
-
-4. **Launch QuantumGuard:**
-
-- Run the main `.exe` file from the desktop
-- Set up your master key (IMPORTANT: Keep your master key safe!)
-
+For detailed installation instructions, please visit the [Releases Page](https://github.com/samay825/QuantumGuard/releases/tag/v1.0.0.0-QuantumGuard).
 
 ---
 
 ## 📫 Support
 
-For assistance and inquiries, please contact us at [support@zork](mailto:sincryptzork@gmail.com).
+For assistance and inquiries, please contact us at [sincryptzork@gmail.com](mailto:sincryptzork@gmail.com).
 
 ## 📜 License
 
