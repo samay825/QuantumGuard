@@ -87,7 +87,7 @@ python setup.py
 
 ## 📫 Support
 
-For assistance and inquiries, please contact us at [support@quantumguard.com](mailto:sincryptzork@gmail.com).
+For assistance and inquiries, please contact us at [support@zork](mailto:sincryptzork@gmail.com).
 
 ## 📜 License
 
