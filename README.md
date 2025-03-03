@@ -16,7 +16,7 @@ QuantumGuard combines cutting-edge encryption techniques with a sleek, user-frie
 
 ### 🔐 Advanced Encryption Technology
 
-- AES-256/SHA-512 encryption for military-grade security
+- AES-256/SHA-512 Encryption|Hashes for military-grade security
 - Unique initialization vectors (IVs) per file
 - Secure key derivation with individual salt generation
 - Custom OIKSBV-815 Zork Private Encryption
@@ -50,8 +50,8 @@ QuantumGuard combines cutting-edge encryption techniques with a sleek, user-frie
 
 ## 💻 System Requirements
 
-- Python 3.13.2+
-- Compatible with Windows, macOS, and Linux
+- Python 3.13.2
+- Compatible with Windows
 
 ## 🛠️ Installation
 
